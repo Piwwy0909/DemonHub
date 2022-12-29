@@ -1,5 +1,11 @@
 ([[
-  
+                This script has been licensed using Luarmor
+            Unauthorized distribution of this script is forbidden.
+      Any attempts at tampering, reverse engineering or modifying this script's 
+      internal logic will result in a global ban, and make you blacklisted from
+            every single script that has been licensed with Luarmor
+
+        Luarmor v3 for Roblox, #1 lua whitelisting system by Federal#9999
 				   https://luarmor.net/
 
       ____                               _   _       _     
