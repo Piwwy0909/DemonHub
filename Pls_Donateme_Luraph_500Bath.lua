@@ -1,6 +1,5 @@
 ([[
-
-        Luarmor v3 for Roblox, #1 lua whitelisting system by Federal#9999
+  
 				   https://luarmor.net/
 
       ____                               _   _       _     
